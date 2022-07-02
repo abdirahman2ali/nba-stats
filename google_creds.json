@@ -1,12 +1,12 @@
 {
-  "type": "service_account",
-  "project_id": "project-d30",
-  "private_key_id": "dee059191ea14462095212c0da41bf06f826e631",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCjk+5TP9biCqLd\nfM7Wz6jV1IUQpM6aTlqU8MBU4xeWA2m3B7Rahg+iz36BLvhbrdXbc0l9XCn8aoxI\n4xu7ZvadwLHx8wOe8jLfFBnXtwb21UNpV5WBvIkdCBPf076H0jxDlKruJZQQ312P\np2QGOHJkg/I6HNzSSysqIJQm6x4etYk496WZjqBNH1lKJhaZbvYeFptnR4bu5T0e\n3487o7GHKFXTOp/aIOI41xXByYVFGGlFLhlJcN9xjyYqDWEfndYP0QTsvlhEt97u\nnD13XS5sgCycywjbFrw7WUmL3D3KtswcAESAnV0caReewVzNS7bz7a1vcCoM18ca\nxie7bHrDAgMBAAECggEADRmdRgSAUIT6ixNiOzjRNCK7b1xLgXcR8Qig1ouDSYvH\nbRWMX42J9gd5AZ6B3FG9JUCD26rEYAcmafXqNCVoTbTva0mDeji6Uzw4X5q0T5M/\nvVF60zOGpZEOimfaQ+VV1zGySLUwuPMyen002PyvSJZ6kSXbl2nWsJ6ATueYd2wA\npOtFWrO+gP+x9HguLqJrvSfDe1G3nkZNHDelTf0RJPgyVu8cKG5jihCTEmHE8nBG\ncfjB8BdsQ3ExcxguCiNdem9WTAQOME+QL1iLj5pexldFSsl02fAwYrbo3zu7yJFR\nA6YCQ7FFjT+L9FArp/L+l/L4GcdvU7qnsw4T3D4FxQKBgQDNLPuML9uSGumf/3ok\nsBdYPrZv//BvJUCpQbLy93Fl5yvpApRE08nhg7g452X80jqyftkXrlsmXhb8tns8\nxjDf44i25UrdNYAl5f3ZPqJUr9IF1K9Fg4PJZJDIIUIuPd1OIEbkuS2sYy0MFKoe\nr52qSkdsX6FTAt6FXMqE0jcG/wKBgQDMGQ+SZxXKxqx+xuvoNtFRjx1pwnGbCznW\nWDLmw9MglBes+Skefe+Zc4kv+CAb1tJB3xNuexg98rGyxAtw4zKYe/29V75K+RXl\nnoUhUXyq1Cnjqc54kuhplqcpvCAezWZHk1e6qbrkCOezpvXCcF85wjq5sloKg4xe\nRAejrQAwPQKBgFja6D135GFL4m12GJGW6SVAU4YBk0CvI2epmjP60VNOYAfTJB8C\nkWVmw/twywxIhz8SDDZjPfpJuS7MYGabdkMfqO98MYXHS64eAmd45phCZHQ9/YHf\nSM2JDeJ99MlN5W+WLt2TDKKheLrIoDwV1fQPowreB2GJ1pBu9Q28dDRFAoGBAKu9\nrs/H9Jt0AHSRmLMHZa2Wmu6CkywfDyUhhHuQbpksZJvF8ebZnANpKBh4VzR12Ola\n+DPwWt7N2N+Pff0ZAVs0griQG+1kmhtk/6ugsSHic/lByx7Ep9Mp1TIWPoUM27MA\n9kJ5Tm1SXP5cUNKz0j19BgN6Y7ATL8umvTLqgY0VAoGAQdYeWdsK0q4pzj/A3GFr\n38fDZzZjBARy1qGH26wTVflVuj1wRuBISnlaofYuQm3Hpb73qlJ4WH3w7AfyXTId\nrqbCnQZLP04hOc+LsnyI9yj42uFtfwdRl9C9gDxceLK3L4mHKNNaPyjqHXwq2S/P\nr9zvWD5vAhWWoOgxn58hmR0=\n-----END PRIVATE KEY-----\n",
-  "client_email": "gspbasketball-test@project-d30.iam.gserviceaccount.com",
-  "client_id": "100641908549454992362",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gspbasketball-test%40project-d30.iam.gserviceaccount.com"
+  "type": "",
+  "project_id": "",
+  "private_key_id": "",
+  "private_key": "-----BEGIN PRIVATE KEY----------END PRIVATE KEY-----",
+  "client_email": "",
+  "client_id": "",
+  "auth_uri": "",
+  "token_uri": "",
+  "auth_provider_x509_cert_url": "",
+  "client_x509_cert_url": ""
 }
